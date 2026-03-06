@@ -1,5 +1,8 @@
 # 💰 NexusBlockMoney
 
+## Plugin nie bedzie juz wspierany zachecamy do kupna plugin NexusBOX
+## NexusBlockMoney mozna pobrac na strefie Darmowej i na Ultimate
+
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Minecraft](https://img.shields.io/badge/minecraft-1.21.8+-green.svg)
 ![Java](https://img.shields.io/badge/java-21+-orange.svg)
